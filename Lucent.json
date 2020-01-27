@@ -1,6 +1,21 @@
 {
   "wallpapers": [
-    {
+     {
+      "author": "Ave Calvar",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Fern.jpg",
+      "name": "Fern"
+    },
+      {
+      "author": "Clay Banks",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Smooth%20Sailing.jpg",
+      "name": "Smooth Sailing"
+    },
+      {
+      "author": "Efe Soysal",
+      "url": "https://github.com/yashtyson88/Lucent-walls/raw/master/Cityscape.jpg",
+      "name": "Citysape"
+    },
+     {
       "author": "Freezydreamin",
       "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Alaska.jpg",
       "name": "Alaska"
