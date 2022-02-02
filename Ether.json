@@ -1,80 +1,94 @@
-[
-        {
-		"name": "Curvy",
-		"author": "Fakurian Design",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Curvy.jpg",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/CurvyThumb.png",
-	},
-        {
-		"name": "Dark Matter",
-		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Dark%20Matter.png",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/Dark%20MatterThumb.png",
-	},
-        {
-		"name": "Galaxy",
-		"author": "Jeremy Perkins",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Galaxy.jpg",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/GalaxyThumb.png",
-	},
-        {
-		"name": "Grunge",
-		"author": "Nick Iliasov",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Grunge.png",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/GrungeThumb.png",
-	},
-        {
-		"name": "Inky",
-		"author": "Pawel Czerwinski",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Inky.jpg",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/InkyThumb.png",
-	},
-        {
-		"name": "Interstellar Nebula",
-		"author": "Yash",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Interstellar%20Nebula.png",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/Interstellar%20NebulaThumb.png",
-	},
-        {
-		"name": "Night Sky",
-		"author": "Rafael Cerqueira",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Night%20Sky.jpg",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/Night%20SkyThumb.png",
-	},
-        {
-		"name": "Orb",
-		"author": "Fakurian Design",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Orb.jpg",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/OrbThumb.png",
-	},
-        {
-		"name": "Petals",
-		"author": "Majid Rangraz",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Petals.jpg",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/PetalsThumb.png",
-	},
-        {
-		"name": "Rock Layers",
-		"author": "Meric Dagli",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Rock%20Layers.jpg",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/Rock%20LayersThumb.png",
-	},
-        {
-		"name": "Surreal Sunrise",
-		"author": "Johny Goerend",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Surreal%20Sunrise.jpg",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/Surreal%20SunriseThumb.png",
-	},
-        {
-		"name": "Velvet",
-		"author": "Kassia Melo",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Velvet.png",
-	        "thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/VelvetThumb.png",
-	},
-	{
-		"name": "Wavy",
-		"author": "Nicolas Cool",
-		"url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Wavy.png",
-		"thumb":"https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Thumbnails/WavyThumb.png",
-	}
-]
+{
+  "wallpapers": [
+     {
+      "author": "Ave Calvar",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Fern.jpg",
+      "name": "Fern"
+    },
+      {
+      "author": "Clay Banks",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Smooth%20Sailing.jpg",
+      "name": "Smooth Sailing"
+    },
+      {
+      "author": "Efe Soysal",
+      "url": "https://github.com/yashtyson88/Lucent-walls/raw/master/Cityscape.jpg",
+      "name": "Citysape"
+    },
+     {
+      "author": "Freezydreamin",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Alaska.jpg",
+      "name": "Alaska"
+    },
+    {
+      "author": "Noah Rosenfield",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Architecture.jpg",
+      "name": "Architecture"
+    },
+    {
+      "author": "Eberhard Grossgasteiger",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Fog.jpg",
+      "name": "Fog"
+    },
+    {
+      "author": "Jp Valery",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Foggy%20Forest.jpg",
+      "name": "Foggy Forest"
+    },
+    {
+      "author": "Katerina Kerdi",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Forest%20on%20Fire.jpg",
+      "name": "Forest on Fire"
+    },
+    {
+      "author": "Eric Muhr",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Forest.jpg",
+      "name": "Forest"
+    },
+    {
+      "author": "Mohammad Alizade",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Golden%20Sky.jpg",
+      "name": "Golden Sky"
+    },
+    {
+      "author": "Meric Dagli",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Gradient%20Sky.jpg",
+      "name": "Gradient Sky"
+    },
+    {
+      "author": "Annie Spratt",
+      "url": "https://github.com/yashtyson88/Lucent-walls/raw/master/Leaves.jpg",
+      "name": "Leaves"
+    },
+    {
+      "author": "Gaetan Meyer",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Mountain%20Ranges.jpg",
+      "name": "Mountain Ranges"
+    },
+    {
+      "author": "Wesley Tingey",
+      "url": "https://github.com/yashtyson88/Lucent-walls/raw/master/Peachy.jpg",
+      "name": "Peachy"
+    },
+    {
+      "author": "Eberhard Grossgasteiger",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Pink%20Mountains.jpg",
+      "name": "Pink Mountains"
+    },
+    {
+      "author": "Martin Adams",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Sunlit%20Peaks.jpg",
+      "name": "Sunlit Peaks"
+    },
+    {
+      "author": "Lakshmeesh Hebbar",
+      "url": "https://raw.githubusercontent.com/yashtyson88/Lucent-walls/master/Trees.jpg",
+      "name": "Trees"
+    },
+    {
+      "author": "Dallin Holding",
+      "url": "https://github.com/yashtyson88/Lucent-walls/raw/master/Winding%20Roads.jpg",
+      "name": "Winding Roads"
+    }
+  ]
+}
